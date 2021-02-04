@@ -1,6 +1,6 @@
 # Editable
 
-⚡️A highly customizable, editable table package for Flutter projects.
+A highly customizable, editable table package for Flutter projects.
 
 ### Specs
 [![pub](https://img.shields.io/pub/v/editable.svg?style=flat)](https://pub.dev/packages/editable)
